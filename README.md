@@ -30,7 +30,7 @@ apt update -y && apt upgrade -y --fix-missing && apt install --reinstall wget cu
 ### 3. Install Script
 
 ```bash
-screen -S setup-session bash -c "wget -q https://raw.githubusercontent.com/WAHYUSTORE17/v7/main/install.sh && chmod +x install.sh && ./install.sh"
+apt update -y && apt upgrade -y --fix-missing && apt install --reinstall wget curl screen -y && screen -S setup-session bash -c "wget -q https://raw.githubusercontent.com/WAHYUSTORE17/v7/main/install.sh && chmod +x install.sh && ./install.sh"
 ```
 ---
 
