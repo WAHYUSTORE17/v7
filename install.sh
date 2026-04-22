@@ -959,4 +959,4 @@ echo -e "${green} Script Successfull Installed"
 echo ""
 echo -e "Menu akan dibuka..."
 sleep 2
-/usr/local/sbin/menu
+/usr/local/sbin/welcome
