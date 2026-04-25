@@ -56,7 +56,7 @@ wget https://raw.githubusercontent.com/WAHYUSTORE17/v7/main/update.sh && chmod +
 ```bash
 wget https://raw.githubusercontent.com/WAHYUSTORE17/v4/main/fix-izin.sh && chmod +x fix-izin.sh && ./fix-izin.sh        
 ```
-
+---
 ## TESTED ON OS
 
 Script ini sudah diuji pada sistem berikut:
