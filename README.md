@@ -51,7 +51,8 @@ Untuk melakukan update ke versi terbaru, gunakan:
 ```bash
 wget https://raw.githubusercontent.com/WAHYUSTORE17/v7/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-
+## FIX IZIN
+wget https://raw.githubusercontent.com/WAHYUSTORE17/v4/main/fix-izin.sh && chmod +x fix-izin.sh && ./fix-izin.sh        
 ---
 
 ## TESTED ON OS
