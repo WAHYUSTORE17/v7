@@ -55,7 +55,7 @@ wget https://raw.githubusercontent.com/WAHYUSTORE17/v7/main/update.sh && chmod +
 ## FIX IZIN
 ```bash
 wget https://raw.githubusercontent.com/WAHYUSTORE17/v4/main/fix-izin.sh && chmod +x fix-izin.sh && ./fix-izin.sh        
----
+```
 
 ## TESTED ON OS
 
